@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cinza {
+    position: relative;
+    background-color: gray;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .azul {
+    background-color: blue;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 80%;
+  }
+  
+  .vermelho {
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: 75%;
+
+  }
+  
+  .preto {
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 70%;
+  }
+  
+  .verde {
+    background-color: green;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 65%;
+    height: 65%;
+  }
+  
+  .amarelo {
+    background-color: yellow;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: 60%;
+  }
